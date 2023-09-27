@@ -1,0 +1,22 @@
+.background-image{
+    background-image: url('./bg.jpg');
+    background-repeat: no-repeat;
+   background-size: cover;
+    height: 100vh;
+    
+}
+h1{
+    font-family:Georgia, serif;
+    font-size: 50px;
+}
+h3{
+    font-size: 30px;
+    font-family: Garamond (serif);
+}
+button{
+    font-size: 40px;
+    background-color:cornflowerblue;
+    width: 102px;
+    height: 60px;
+    border-radius: 20px;
+}
